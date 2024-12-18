@@ -13,8 +13,9 @@
 - **Lenguajes:** Python, JavaScript, HTML, CSS  
 - **Frameworks:** Django, Next.js  
 - **Bases de datos:** MySQL, SQL, SQLite, PostgreSQL  
-- **Integración de APIs y Dashboards:** Desarrollo de dashboards informativos con librerías de JavaScript, integración de APIs, y consultas a bases de datos aprovechando el stack tecnológico.  
+- **IA & Análisis de Datos:** Desarrollo de modelos de asistencia conversacional tipo LLM entrenados con Python y herramientas de código abierto (Visual Studio Code), creación de dashboards informativos con librerías JavaScript, integración de APIs y explotación de datos.  
 - Siempre en constante evolución, impulsado por la curiosidad y el aprendizaje continuo. ✨
+
 
 **Inspiración Musical**  
 - La música electrónica (electro) y el rock clásico inglés/americano nutren mi motor creativo. 🎸🎶
