@@ -1,4 +1,4 @@
-# DISTinTheHouse – Visionario Digital del Código y el Sonido 🎧💻
+# DISTinTheHouse – Software Developer & Musician 🎧💻
 
 ¡Hola! Soy **DISTinTheHouse**, un desarrollador de software especializado en **experiencias web innovadoras**, con sólido conocimiento en **aplicaciones móviles (Android)** y un enfoque **full-stack**. 🚀
 
