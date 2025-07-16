@@ -4,7 +4,7 @@
 [![Tests](https://github.com/DISTinTheHouse/plant-ia/actions/workflows/tests.yml/badge.svg)](https://github.com/DISTinTheHouse/plant-ia/actions)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3754--6927-brightgreen.svg)](https://orcid.org/0009-0008-3754-6927)
 
-Hey! I'm **DISTinTheHouse**, a passionate software developer focused on delivering innovative web experiences and backend automation solutions. 🚀
+Hey! I'm **DISTinTheHouse**, Full Stack Developer specialized in building scalable Django-based ERP/CRM systems, with strong experience in cloud deployment, secure APIs, and AI-driven business automation. 🚀
 
 ---
 
