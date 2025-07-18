@@ -35,9 +35,9 @@ Hey! I'm **DISTinTheHouse**, Full Stack Developer specialized in building scalab
 ---
 
 ## 📚 Certifications
+- [Python for Data Science]([https://coursera.org/verify/C92KZ1M6YRXQ](https://www.credly.com/earner/earned/badge/4fb2d486-f34e-4ca3-adbc-6e70d608904f)) – IBM
+- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate]([https://coursera.org/verify/WAZ4FEGGFDTV](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F3E09388DB8A82A2AD378FF2CEB72951102C21687E5ED669E72D4F9C0CDA39DC)) – Oracle
 - [Google IT Automation with Python](https://coursera.org/verify/C92KZ1M6YRXQ) – Coursera
-- [Oracle Cloud Infrastructure Foundations](https://coursera.org/verify/WAZ4FEGGFDTV) – Coursera
-
 ---
 
 ## 🚀 Mindset
